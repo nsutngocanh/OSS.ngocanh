@@ -1,6 +1,6 @@
 # Main Title
 
-This is a sample paragraph with **bold**, *italic*, and a [link]
+This is a sample paragraph with **bold**, *italic*, and a [link](google.com)
 
 ## List
 - Item 1
